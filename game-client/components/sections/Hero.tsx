@@ -35,7 +35,7 @@ const Hero: FC = () => {
             className="text-6xl md:text-8xl font-bold"
           >
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#d4a373] via-[#ccd5ae] to-[#e9edc9]">
-              Aura Land
+              Chain Craft
             </span>
           </motion.h1>
           
